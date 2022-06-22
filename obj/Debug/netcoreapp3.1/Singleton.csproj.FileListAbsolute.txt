@@ -1,0 +1,14 @@
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+D:\Yazılım Mühendisliği\Tasarım Kalıpları (Design Patterns)\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
